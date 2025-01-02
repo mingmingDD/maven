@@ -7,6 +7,7 @@
 <title>Index</title>
 </head>
 <body>
+	<%-- 주석 내용 --%>
 	<h1>INDEX</h1>
 </body>
 </html>
